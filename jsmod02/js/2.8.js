@@ -9,5 +9,5 @@ function concat(strArray) {
 }
 
 let array = ["Kaspar", "Harri", "Swag", "Moro"];
-let concatenated = concat(array);
-document.querySelector("#lista").innerHTML = concatenated;
+let concatlist = concat(array);
+document.querySelector("#lista").innerHTML = concatlist;
