@@ -17,4 +17,3 @@ while (input !== null) {
 
   input = prompt("Anna numero:");
 }
-
